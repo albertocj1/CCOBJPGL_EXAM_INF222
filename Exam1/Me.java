@@ -56,7 +56,7 @@ public class Me implements Tourist {
             System.out.println("Not enough budget to travel...");
         } 
         else {
-            System.out.println("Enjoying La Union...");
+            System.out.println("Enjoying Sagada...");
             budget -= sagada.getFare();
         }
         checkBudget();
